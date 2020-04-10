@@ -66,8 +66,8 @@ git clone https://github.com/buchan123/Disaster-Response-Pipeline.git
 <a name="acknowledgement"></a>
 ## Acknowledgements
 
-* [Udacity](https://www.udacity.com/) for providing such a complete Data Science Nanodegree Program
-* [Figure Eight](https://www.figure-eight.com/) for providing messages dataset to train my model
+* [Udacity](https://www.udacity.com/) for providing such a great and complete course for learning Data Science.
+* [Figure Eight](https://www.figure-eight.com/) for providing the dataset to train my model
 
 <a name="screenshots"></a>
 ## Screenshots
