@@ -45,6 +45,7 @@ git clone https://github.com/buchan123/Disaster-Response-Pipeline.git
 ```
 <a name="executing"></a>
 ### Executing Program:
+Note: Run the above commands on a cmd prompt or linux terminal in the local git directory.
 1. Run the following commands in the project's root directory to set up your database and model.
 
     - To run ETL pipeline that cleans data and stores in database(Just Pass the parameters)
